@@ -23,29 +23,6 @@ This project demonstrates an end-to-end data preparation workflow covering:
 
 **Target variable:** `default_flag`
 
-## 📁 Recommended Repository Structure
-
-```text
-Holistic_Data_Preparer/
-│
-├── Holistic_Data_Preparer.ipynb
-├── patient_health_records_cleaned.csv
-├── final_cleaned_customer_credit_risk_dataset.csv
-├── Holistic_Data_Preparer_Meet_mehta_12237
-├── Holistic_Data_Preparer_theory.pdf
-│
-├── screenshots/
-│   ├── ss_1
-│   ├── ss_2
-│   ├── ss_3
-│   ├── ss_4
-│   ├── ss_5
-│   ├── ss_6
-│   ├── ss_6
-│   ├── ss_7
-│   └── ss_8
-│
-└──README.md
 ---
 
 # 📸 Dashboard Preview
@@ -113,6 +90,33 @@ The main goal is to build a reliable preprocessing workflow that:
 | Final duplicate rows    |     **0** |
 | Non-default (`0`)       |   **760** |
 | Default (`1`)           |   **240** |
+
+
+
+## 📁 Recommended Repository Structure
+
+```text
+Holistic_Data_Preparer/
+│
+├── Holistic_Data_Preparer.ipynb
+├── patient_health_records_cleaned.csv
+├── final_cleaned_customer_credit_risk_dataset.csv
+├── Holistic_Data_Preparer_Meet_mehta_12237
+├── Holistic_Data_Preparer_theory.pdf
+│
+├── screenshots/
+│   ├── ss_1
+│   ├── ss_2
+│   ├── ss_3
+│   ├── ss_4
+│   ├── ss_5
+│   ├── ss_6
+│   ├── ss_6
+│   ├── ss_7
+│   └── ss_8
+│
+└──README.md
+
 
 ## 🧭 Workflow
 
