@@ -46,9 +46,9 @@ Holistic_Data_Preparer/
 │   └── ss_8
 │
 └──README.md
+---
 
-
-# 📊 Exploratory Data Analysis Dashboard
+# 📸 Dashboard Preview
 
 ## 1️⃣ Customer Age Distribution
 ![Customer Age Distribution](screenshots/ss_1.png)
